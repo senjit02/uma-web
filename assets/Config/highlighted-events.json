@@ -1,0 +1,33 @@
+{
+    "hEvents": [
+        {
+            "name": "Mahalaya Celebration 2019",
+            "desc": "UMA presents celebration of Mahalaya 2019",
+            "place": "TBD",
+            "date": "28th September, 2019",
+            "time": "8:30 AM"
+        },
+		{
+            "name": "Durga Puja 2019",
+            "desc": "UMA presents Durga Puja 2019. A festival closest to Bengal's heart ",
+            "place": "Utsav Prangan",
+            "date": "5th & 6th October, 2019",
+            "time": "10.00 AM"
+        },
+        {
+            "name": "Annual Picnic 2019",
+            "desc": "Member picnic and get together to cheer with our family and friends",
+            "place": "TBD",
+            "date": "TBD",
+            "time": "TBD"
+        },
+        {
+            "name": "Saraswati Puja - 2020",
+            "desc": "UMA presents Saraswati Puja 2020.",
+            "place": "Utsav Prangan",
+            "date": "29th January, 2020",
+            "time": "10:00 AM"
+        }
+        
+    ]
+}
