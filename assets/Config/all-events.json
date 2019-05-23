@@ -1,0 +1,77 @@
+{
+    "events": [
+        {
+          "name": "Mahalaya 2019",
+          "desc": "UMA celebrates Mahalaya 2019",
+          "place": "TBD",
+          "displayDate": "28th September, 2019",
+          "date": "2019-09-28",
+          "time": "TBD",
+          "imgUrl": "assets/img/event/mahalaya-2019.jpg"
+        },
+        {
+          "name": "Durga Puja 2019",
+          "desc": "UMA presents Durga Puja 2019. A festival closest to Bengal's heart",
+          "place": "Utsav Prangan",
+          "displayDate": "5th - 6th October, 2019",
+          "date": "2019-10-05",
+          "time": "10.00 AM",
+          "imgUrl": "assets/img/event/durga-puja-2019.jpg"
+        },
+        {
+          "name": "Annual Picnic",
+          "desc": "Member picnic and get together to cheer with our family and friends",
+          "place": "TBD",
+          "displayDate": "TBD",
+          "date": "2019-10-25",
+          "time": "9:30 AM",
+          "imgUrl": "assets/img/event/annual-picnic-2019.jpg"
+        },
+        {
+          "name": "Saraswati Puja - 2020",
+          "desc": "UMA presents Saraswati Puja 2020",
+          "place": "Utsav Prangan",
+          "displayDate": "29th January, 2020",
+          "date": "2020-01-29",
+          "time": "10:00 AM",
+          "imgUrl": "assets/img/event/saraswati-puja-2019.jpg"
+        },
+        {
+            "name": "Saraswati Puja 2019",
+            "desc": "We celebrated Saraswati Puja 2019",
+            "place": "Utsav Prangan",
+            "displayDate": "22-01-2019",
+            "date": "2019-01-22",
+            "time": "8:30 AM",
+            "imgUrl": "assets/img/event/saraswati-puja-2019.jpg"
+          },
+          {
+            "name": "Event 2",
+            "desc": "NA",
+            "place": "NA",
+            "displayDate": "NA",
+            "date": "2019-02-22",
+            "time": "NA",
+            "imgUrl": "assets/img/7.jpg"
+          },
+          {
+            "name": "Event 3",
+            "desc": "NA",
+            "place": "NA",
+            "displayDate": "NA",
+            "date": "2019-02-22",
+            "time": "NA",
+            "imgUrl": "assets/img/6.jpg"
+          },
+          {
+            "name": "Event 4",
+            "desc": "NA",
+            "place": "NA",
+            "displayDate": "NA",
+            "date": "2019-02-22",
+            "time": "NA",
+            "imgUrl": "assets/img/6.jpg"
+          }
+    
+      ]
+}
