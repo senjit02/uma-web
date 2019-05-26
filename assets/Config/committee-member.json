@@ -1,0 +1,78 @@
+{
+"members": 
+    [
+        {
+        "designation":"Board Member",
+        "name": "Partho Sinha",
+        "email" : "utsavmelbourneassociation@gmail.com",
+        "sex": "male",
+        "phone": "+61-402895604",
+        "picture":"board-member.jpg"
+        },
+		{
+        "designation":"Director",
+        "name": "Pradeep Dhiman",
+        "email" : "utsavmelbourneassociation@gmail.com",
+        "sex": "male",
+        "phone": "+61-402895604",
+        "picture":"director.jpg"
+        },
+		{
+        "designation":"President",
+        "name": "Pritam Dutta",
+        "email" : "utsavmelbourneassociation@gmail.com",
+        "sex": "male",
+        "phone": "+61-402895604",
+        "picture":"president.jpg"
+        },
+		{
+        "designation":"Vice President",
+        "name": "Amit Teji",
+        "email" : "utsavmelbourneassociation@gmail.com",
+        "sex": "male",
+        "phone": "+61-402895604",
+        "picture":"vice_president.jpg"
+        },
+        {
+        "designation":"Secretary",
+        "name": "Sanjeeb Ghosh",
+        "email" : "utsavmelbourneassociation@gmail.com",
+        "sex": "male",
+        "phone": "+61-402895604",
+        "picture":"secretary.jpg"
+        },
+        {
+        "designation":"Treasurer",
+        "name": "Amit Teji",
+        "email" : "utsavmelbourneassociation@gmail.com",
+        "sex": "male",
+        "phone": "+61-402895604",
+        "picture":"treasurer.jpg"
+        },
+		{
+        "designation":"Public Officer",
+        "name": "Pat Banerjee",
+        "email" : "utsavmelbourneassociation@gmail.com",
+        "sex": "male",
+        "phone": "+61-402895604",
+        "picture":"public-officer.jpg"
+        },
+		{
+        "designation":"Marketing Head",
+        "name": "Pat Banerjee",
+        "email" : "utsavmelbourneassociation@gmail.com",
+        "sex": "male",
+        "phone": "+61-402895604",
+        "picture":"marketing-head.jpg"
+        },
+		{
+        "designation":"Web Architect",
+        "name": "Suman Barick",
+        "email" : "codotronix@gmail.com",
+        "sex": "male",
+        "phone": "+91-8961184810",
+        "picture":"web-architect.jpg"
+        }
+        
+    ]
+}
